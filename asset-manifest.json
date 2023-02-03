@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.65672f31.css",
-    "main.js": "./static/js/main.47270c76.js",
+    "main.css": "./static/css/main.4f151e16.css",
+    "main.js": "./static/js/main.6d1e2fff.js",
     "static/media/Montserrat-VariableFont_wght.ttf?v=1": "./static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
     "static/media/Prata-Regular.ttf?v=1": "./static/media/Prata-Regular.2eeab737052a4ae3b2a9.ttf",
     "static/media/banner.webp": "./static/media/banner.0782175e9e9a77dca263.webp",
@@ -17,16 +17,17 @@
     "static/media/logo__twitter--white.svg": "./static/media/logo__twitter--white.ef8e25f5116b30a30b00.svg",
     "static/media/botao__ver-mais.svg": "./static/media/botao__ver-mais.509397b0586b1146cb7c.svg",
     "index.html": "./index.html",
+    "static/media/link-externo__white.svg": "./static/media/link-externo__white.4289ebc78a0f0fc20856.svg",
     "static/media/select__arrow.svg": "./static/media/select__arrow.cb23f729ed303e1c2473.svg",
     "static/media/hamburger-menu--black.svg": "./static/media/hamburger-menu--black.9e9eab2d61ca07a4ccc7.svg",
     "static/media/hamburger-menu--white.svg": "./static/media/hamburger-menu--white.dee3b57efd961e9576b6.svg",
     "static/media/bg__rodape.svg": "./static/media/bg__rodape.f41857fcb7c0915911b9.svg",
     "static/media/logo__facebook--white.svg": "./static/media/logo__facebook--white.0689eaf53b5a3e67d852.svg",
-    "main.65672f31.css.map": "./static/css/main.65672f31.css.map",
-    "main.47270c76.js.map": "./static/js/main.47270c76.js.map"
+    "main.4f151e16.css.map": "./static/css/main.4f151e16.css.map",
+    "main.6d1e2fff.js.map": "./static/js/main.6d1e2fff.js.map"
   },
   "entrypoints": [
-    "static/css/main.65672f31.css",
-    "static/js/main.47270c76.js"
+    "static/css/main.4f151e16.css",
+    "static/js/main.6d1e2fff.js"
   ]
 }
