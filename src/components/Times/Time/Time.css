@@ -1,0 +1,62 @@
+.times {
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+    .times--programacao, .times--frontend, .times--datascience, .times--devops, .times--uxdesign, .times--mobile, .times--inovacaogestao {
+        background-image: var(--img-times);
+        background-position: top center;
+        background-repeat: repeat;
+        background-size: 100%;
+    }
+
+    .times--programacao { background-color: var(--cor-fundo-1) }
+    .times--frontend { background-color: var(--cor-fundo-2) }
+    .times--datascience { background-color: var(--cor-fundo-3) }
+    .times--devops { background-color: var(--cor-fundo-4) }
+    .times--uxdesign { background-color: var(--cor-fundo-5) }
+    .times--mobile { background-color: var(--cor-fundo-6) }
+    .times--inovacaogestao { background-color: var(--cor-fundo-7) }
+
+    .times__titulo {
+        font-family: Prata;
+        font-size: 2.8rem;
+        padding: 3rem 0 1.25rem 0;
+        margin: 0rem 0 3rem 0;
+    }
+
+        .titulo--programacao, .titulo--frontend, .titulo--datascience, .titulo--devops, .titulo--uxdesign, .titulo--mobile, .titulo--inovacaogestao {
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 3rem auto;
+        }
+
+        .titulo--programacao { background-image: linear-gradient(180deg, transparent calc(100% - .5rem), var(--cor-destaques-1) calc(100% - .5rem)); }
+        .titulo--frontend { background-image: linear-gradient(180deg, transparent calc(100% - .5rem), var(--cor-destaques-2) calc(100% - .5rem)); }
+        .titulo--datascience { background-image: linear-gradient(180deg, transparent calc(100% - .5rem), var(--cor-destaques-3) calc(100% - .5rem)); }
+        .titulo--devops { background-image: linear-gradient(180deg, transparent calc(100% - .5rem), var(--cor-destaques-4) calc(100% - .5rem)); }
+        .titulo--uxdesign { background-image: linear-gradient(180deg, transparent calc(100% - .5rem), var(--cor-destaques-5) calc(100% - .5rem)); }
+        .titulo--mobile { background-image: linear-gradient(180deg, transparent calc(100% - .5rem), var(--cor-destaques-6) calc(100% - .5rem)); }
+        .titulo--inovacaogestao { background-image: linear-gradient(180deg, transparent calc(100% - .5rem), var(--cor-destaques-7) calc(100% - .5rem)); }
+
+@media screen and (min-width: 768px) {
+    .times {
+        padding-bottom: 1rem;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .times {
+        padding-bottom: 2rem;
+    }
+    
+        .times--programacao, .times--frontend, .times--datascience, .times--devops, .times--uxdesign, .times--mobile, .times--inovacaogestao {
+            background-size: 50%;
+        }
+}
+
+@media screen and (min-width: 1200px) {
+    .times {
+        padding-bottom: 3rem;
+    }
+}

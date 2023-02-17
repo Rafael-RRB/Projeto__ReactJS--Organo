@@ -1,0 +1,39 @@
+.formulario__botao {
+    display: inline-block;
+    width: fit-content;
+    height: 10vw;
+    max-height: 8rem;
+    padding: 0 3.25rem;
+    margin-top: 1.5rem;
+    color: var(--cor-fonte-5);
+    background-color: var(--cor-principal-1);
+    border: none;
+    border-radius: .5rem;
+    font-size: 1.4rem;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 576px) {
+    .formulario__botao {
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .formulario__botao {
+        font-size: 1.8rem;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .formulario__botao {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+}
+
+@media screen and (min-width: 1400px) {
+}

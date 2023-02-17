@@ -1,0 +1,9 @@
+.campo__lista {
+    appearance: none;
+    color: var(--cor-fonte-6);
+    background-image: url('/public/img/ui/select__arrow.svg');
+    background-repeat: no-repeat;
+    background-position: calc(100% - 1.5rem) center;
+    background-size: 1.5rem;
+    padding-right: 4.5rem;
+}

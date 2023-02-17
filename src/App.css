@@ -1,0 +1,185 @@
+:root {
+  --cor-principal-1: #39458A;
+  --cor-principal-2: #95FFD4;
+  --cor-principal-3: #F2F2F2;
+
+  --cor-destaques-1: #57C278;
+  --cor-destaques-2: #82CFFA;
+  --cor-destaques-3: #A6D157;
+  --cor-destaques-4: #E06B69;
+  --cor-destaques-5: #DB6EBF;
+  --cor-destaques-6: #FFBA05;
+  --cor-destaques-7: #FF8A29;
+  --cor-destaques-8: #AAA;
+
+  --cor-fundo-1: #D9F7E9;
+  --cor-fundo-2: #E8F8FF;
+  --cor-fundo-3: #F0F8E2;
+  --cor-fundo-4: #FDE7E8;
+  --cor-fundo-5: #FAE9F5;
+  --cor-fundo-6: #FFF5D9;
+  --cor-fundo-7: #FFEEDF;
+
+  --cor-fonte-1: #212121;
+  --cor-fonte-2: #FEFEFE;
+  --cor-fonte-3: #2639A8;
+  /* Contraste absolutamente mínimo p/ branco */
+  --cor-fonte-4: #777777;
+  /* Cor não muda entre modos de luz */
+  --cor-fonte-5: #FEFEFE;
+  --cor-fonte-6: #212121;
+
+  --cor-boxshadow-1: #EEEEEE;
+  --cor-boxshadow-2: #bfbfbf;
+
+  --cor-foco: #303F99;
+
+  
+  --img-times: url('/public/img/banner/times__banner--black.svg');
+  --img-menu-off: url('/public/img/ui/hamburger-menu--black.svg');
+  --img-menu-on: url('/public/img/ui/hamburger-menu--white.svg');
+  --img-organo-off: url('/public/img/ui/logo__organo--black.svg');
+  --img-organo-on: url('/public/img/ui/logo__organo--white.svg');
+  --img-luz-off: url('/public/img/ui/dark-theme__off.svg');
+  --img-luz-on: url('/public/img/ui/dark-theme__on.svg');
+
+  color: var(--cor-fonte-1);
+  font-size: 10px;
+}
+
+@font-face {
+  font-family: Prata;
+  src: url(/public/font/Prata/Prata-Regular.ttf?v=1);
+  font-display: swap;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url(/public/font/Montserrat/Montserrat-VariableFont_wght.ttf?v=1);
+  font-display: swap;
+}
+
+* {
+  box-sizing: border-box;
+  transition: color 50ms, background 200ms, box-shadow 200ms;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: .25rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  letter-spacing: .1em;
+}
+
+#root {
+  background-color: var(--cor-fonte-2);
+}
+
+/* Classes inline */
+.inline__capitalize {
+  text-transform: capitalize;
+  font-weight: 900;
+}
+
+.inline__link {
+  text-transform: capitalize;
+  text-decoration: none;
+  font-weight: 900;
+}
+
+/* Padrões de acessibilidade */
+a, input, select, button {
+  color: inherit;
+  min-width: 50px;
+  min-height: 50px;
+}
+
+a, button, select {
+  cursor: pointer;
+}
+
+.a11y__hidden {
+  display: inline-block;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 1px;
+}
+
+/* Classes para uso no JavaScript */
+.js__positionTransition {
+  transition: top 200ms, position 200ms;
+}
+
+.js__positionFixed {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+}
+
+.js__positionHide {
+  top: -7.5rem !important;
+}
+
+.js__hide {
+  display: none !important;
+}
+
+.js__darkMode {
+  --cor-principal-1: #1c2245;
+  --cor-principal-2: #00ca78;
+  --cor-principal-3: #3c3c3c;
+
+  --cor-destaques-1: #194828;
+  --cor-destaques-2: #17394c;
+  --cor-destaques-3: #374818;
+  --cor-destaques-4: #441817;
+  --cor-destaques-5: #46193b;
+  --cor-destaques-6: #403516;
+  --cor-destaques-7: #462d19;
+
+  --cor-fundo-1: #212e28;
+  --cor-fundo-2: #1f292c;
+  --cor-fundo-3: #2b3023;
+  --cor-fundo-4: #342526;
+  --cor-fundo-5: #32242e;
+  --cor-fundo-6: #363227;
+  --cor-fundo-7: #2e2822;
+
+  --cor-fonte-1: #FEFEFE;
+  --cor-fonte-2: #212121;
+  --cor-fonte-3: #A5B3FF;
+  /* Contraste absolutamente mínimo p/ branco */
+  --cor-fonte-4: #777777;
+
+  --cor-boxshadow-1: #111111;
+  --cor-boxshadow-2: #202020;
+
+  --cor-foco: #EEEEEE;
+
+  --img-times: url('/public/img/banner/times__banner--white.svg');
+  --img-menu-off: url('/public/img/ui/hamburger-menu--white.svg');
+  --img-menu-on: url('/public/img/ui/hamburger-menu--black.svg');
+  --img-organo-off: url('/public/img/ui/logo__organo--white.svg');
+  --img-organo-on: url('/public/img/ui/logo__organo--black.svg');
+  --img-luz-off: url('/public/img/ui/dark-theme__on.svg');
+  --img-luz-on: url('/public/img/ui/dark-theme__off.svg');
+
+  color: var(--cor-fonte-1);
+}
+
+/* Para evitar que a página fique extremamente pequena, os elementos utilizam VW e REM */
+@media screen and (min-width: 1920px) {
+  :root {
+    font-size: .52vw;
+  }
+}

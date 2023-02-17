@@ -1,0 +1,56 @@
+.campo::placeholder {
+    color: var(--cor-fonte-4);
+}
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 2.5rem;
+}
+
+    .campo__titulo {
+        font-size: 1.4rem;
+        margin-bottom: 1rem;
+        font-weight: 700;
+    }
+
+    .campo__texto {
+        height: 10vw;
+        max-height: 8rem;
+        border: none;
+        padding: 0 1rem;
+        font-size: 1.2rem;
+        color: var(--cor-fonte-6);
+        box-shadow: 1rem 1rem 2rem 0 var(--cor-boxshadow-1);
+    }
+
+@media screen and (min-width: 576px) {    
+    .campo__titulo {
+        font-size: 1.6rem;
+    }
+
+    .campo__texto {
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .campo__titulo {
+        font-size: 1.8rem;
+    }
+
+    .campo__texto {
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (min-width: 992px) {    
+    .campo__titulo {
+        font-size: 2rem;            
+    }
+
+    .campo__texto {
+        font-size: 1.8rem;
+    }
+}

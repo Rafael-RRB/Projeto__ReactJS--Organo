@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916666 5.2916667"
+   version="1.1"
+   id="svg3790"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="botao__ver-mais.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3792"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="16.871996"
+     inkscape:cx="0.82977733"
+     inkscape:cy="13.157898"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12110" />
+  <defs
+     id="defs3787" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g12110"
+       transform="matrix(0.58583322,0,0,0.58583322,11.121081,10.248857)">
+      <g
+         id="g12101"
+         transform="translate(-2.7056452,-11.221774)">
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           id="path6714"
+           cx="-11.761353"
+           cy="-1.756362"
+           r="4.5163593" />
+        <circle
+           style="opacity:1;fill:#39458a;fill-opacity:1;stroke:none;stroke-width:0.59615"
+           id="path7856"
+           cx="-11.761353"
+           cy="-1.756362"
+           r="4.1870418" />
+      </g>
+      <path
+         id="rect2384"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.342205"
+         d="m -14.747511,-15.065214 v 1.806567 h -1.806565 v 0.561022 h 1.806565 v 1.806567 h 0.561023 v -1.806567 h 1.806568 v -0.561022 h -1.806568 v -1.806567 z" />
+    </g>
+  </g>
+</svg>

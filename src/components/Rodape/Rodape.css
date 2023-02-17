@@ -1,0 +1,110 @@
+.rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 14rem;
+    padding: 2rem 1rem;
+    border-top: .2rem solid var(--cor-fonte-2);
+    background: var(--cor-principal-1) url('/public/img/banner/bg__rodape.svg') repeat center / 50% auto;
+}
+
+    .rodape__redes-sociais {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: fit-content;
+        margin: 0;
+    }
+
+        .rede-social {
+            display: inline-block;
+            margin: 0 1rem;
+            transition: filter 200ms;
+        }
+
+            .rede-social:hover {
+                filter: brightness(0.7);
+            }
+
+            .rede-social--facebook {
+                background: transparent url('/public/img/ui/logo__facebook--white.svg') no-repeat center / 3rem;
+            }
+
+            .rede-social--twitter {
+                background: transparent url('/public/img/ui/logo__twitter--white.svg') no-repeat center / 3rem;
+            }
+
+            .rede-social--instagram {
+                background: transparent url('/public/img/ui/logo__instagram--white.svg') no-repeat center / 3rem;
+            }
+
+    .rodape__link-home {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        width: 12rem;
+        background: transparent url('/public/img/ui/logo__organo--white.svg') no-repeat center / 9rem auto;
+        padding: 0 1rem;
+        margin-bottom: 2rem;
+        transition: filter 200ms;
+    }
+
+        .rodape__link-home:hover {
+            filter: brightness(0.8);
+        }
+
+    .rodape__copyright {
+        width: 30rem;
+        max-width: 100%;
+        font-family: Montserrat;
+        font-size: 1.4rem;
+        color: var(--cor-fonte-5);
+        margin: 2rem 0 0 0;
+    }
+
+        .copyright--clicavel {
+            padding-right: 1.5rem;
+            background: transparent url('/public/img/ui/link-externo__white.svg') no-repeat right / 1rem;
+        }
+
+@media screen and (min-width: 992px) {
+    .rodape {
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 2rem 10%;
+        background: var(--cor-principal-1) url('/public/img/banner/bg__rodape.svg') repeat bottom / auto 100%;
+    }
+    
+        .rodape__redes-sociais {
+            width: 30%;
+            margin: 0;
+            order: 1;
+        }
+    
+            .rede-social {
+                display: inline-block;
+                margin: 0 1rem;
+            }
+    
+        .rodape__link-home {
+            margin-bottom: 0;
+            order: 2;
+        }
+    
+        .rodape__copyright {
+            width: 30%;
+            font-size: 1.4rem;
+            margin: 0;
+            order: 3;
+        }
+}
+
+@media screen and (min-width: 1200px) {
+}
+
+@media screen and (min-width: 1400px) {
+    .rodape {
+        padding: 2rem 15%;
+    }
+}

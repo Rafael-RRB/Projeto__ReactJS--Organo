@@ -1,0 +1,137 @@
+.cartoes {
+    display: flex;
+    justify-content: space-between;
+    gap: 4%;
+    width: 100%;
+    max-width: 137rem;
+    margin: auto;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+}
+
+    .cartao {
+        display: inline-block;
+        min-width: 24rem;
+        max-width: 24rem;
+        height: 100%;
+        padding: 4rem 0 2rem 0;
+        margin: 0;
+        scroll-snap-align: center;
+        border-radius: 1rem;
+        background-image: linear-gradient(180deg, var(--cor-cartao) 0% 10rem, var(--cor-fonte-2) 10rem);
+    }
+
+        .cartao:first-child {
+            margin-left: calc((100vw - 24rem) / 2);
+            margin-right: 0;
+        }
+
+        .cartao:last-child {
+            margin-left: 0;
+            margin-right: calc((100vw - 24rem) / 2);
+        }
+
+        .cartao--programacao { --cor-cartao: var(--cor-destaques-1) }
+        .cartao--frontend { --cor-cartao: var(--cor-destaques-2) }
+        .cartao--datascience { --cor-cartao: var(--cor-destaques-3) }
+        .cartao--devops { --cor-cartao: var(--cor-destaques-4) }
+        .cartao--uxdesign { --cor-cartao: var(--cor-destaques-5) }
+        .cartao--mobile { --cor-cartao: var(--cor-destaques-6) }
+        .cartao--inovacaogestao { --cor-cartao: var(--cor-destaques-7) }
+        .cartao--default {
+            --cor-cartao: var(--cor-destaques-8);
+            height: 35.1rem;
+            display: inline-flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            gap: 5rem;
+        }
+
+        .cartao__imagem {
+            width: 13.4rem;
+            height: 13.4rem;
+            border: .75rem solid var(--cor-fonte-2);
+            border-radius: 50%;
+            background-color: #AAA;
+        }
+
+        .cartao__nome {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 2.5em;
+            color: var(--cor-fonte-3);
+            padding: 0 2rem;
+            margin: 1.5rem 0 1rem 0;
+            font-size: 1.8rem;
+            line-height: 1;
+        }
+
+        .cartao__descricao {
+            display: flex;
+            text-align: left;
+            justify-content: center;
+            padding: 0 2rem;
+            margin: 0;
+            font-size: 1.6rem;
+            min-height: 5.5em;
+        }
+
+        .cartao__botao {
+            width: 6rem;
+            height: 6rem;
+            padding: 0;
+            border: none;
+            border-radius: 50%;
+            background: transparent url('/public/img/ui/botao__ver-mais.svg') no-repeat center / cover;
+            box-shadow: 0rem 0.4rem 0.4rem 0rem var(--cor-boxshadow-2);
+            transition: filter 200ms;
+        }
+
+            .cartao__botao:hover {
+                filter: brightness(0.8);
+            }
+
+@media screen and (min-width: 768px) {
+    .cartoes {
+        justify-content: center;
+        gap: 1rem;
+        flex-wrap: wrap;
+        scroll-snap-type: none;
+    }
+    
+        .cartao {
+            margin: 0;
+            scroll-snap-align: none;
+        }
+
+            .cartao:first-child {
+                margin: 0;
+            }
+
+            .cartao:last-child {
+                margin: 0;
+            }
+
+}
+
+@media screen and (min-width: 992px) {
+    .cartoes {
+        gap: 2rem;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .cartoes {
+        gap: 3rem;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+}
+
+@media screen and (min-width: 1920px) {
+    
+}

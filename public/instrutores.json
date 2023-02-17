@@ -1,0 +1,1462 @@
+{
+    "instrutores": [
+        {
+            "img": "./img/profile/paula-heloisa-da-silva-ribeiro.webp",
+            "nome": "Paula Heloisa da Silva Ribeiro",
+            "descricao": "Doutoranda e mestra, formada na Universidade Federal do ABC",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/alex-felipe-victor-vieira.webp",
+            "nome": "Alex Felipe Victor Vieira",
+            "descricao": "Instrutor e desenvolvedor com experiência em Java, Kotlin, Android",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/aline-roque-klein.webp",
+            "nome": "Aline Roque Klein",
+            "descricao": "Aline é consultora nas áreas de marketing e design com foco em inovação",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/ana-duarte.webp",
+            "nome": "Ana Duarte",
+            "descricao": "Bacharela em Estatística e atualmente cursando Ciência da Computação",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/ana-clara-de-andrade-mioto.webp",
+            "nome": "Ana Clara de Andrade Mioto",
+            "descricao": "Bacharela em Informática Biomédica e mestranda em Bioengenharia, pela USP",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/ana-mascarenhas.webp",
+            "nome": "Ana Mascarenhas",
+            "descricao": "Publicitária, especialista em marketing digital, cursando Mestrado em Comunicação e Mídias",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/ana-ribeiro.webp",
+            "nome": "Ana Ribeiro",
+            "descricao": "Instrutora, recruiter, palestrante, mentora de carreira e criadora de conteúdo",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/ana-rocha.webp",
+            "nome": "Ana Rocha",
+            "descricao": "Educadora corporativa, especialista em desenvolvimento de liderança",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/anderson-gaveta.webp",
+            "nome": "Anderson Gaveta",
+            "descricao": "Sócio-fundador da Gaveta Filmes, atende grandes nomes como a Globo",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/andré-bessa.webp",
+            "nome": "André Bessa",
+            "descricao": "Programador e instrutor de programação usando C# e .NET",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/andré-cunha.webp",
+            "nome": "André Cunha",
+            "descricao": "Estudante de Engenharia de Computação e instrutor mobile na Alura",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/andré-lisboa.webp",
+            "nome": "André Lisboa",
+            "descricao": "Designer focado em produtos digitais",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/andre-tardelli.webp",
+            "nome": "Andre Tardelli",
+            "descricao": "Instrutor na área de UX, na Alura e Caelum",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/ândriu-felipe-coelho.webp",
+            "nome": "Ândriu Felipe Coelho",
+            "descricao": "Desenvolvedor iOS e instrutor",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/antônio-evaldo.webp",
+            "nome": "Antônio Evaldo",
+            "descricao": "Desenvolvedor de Software e instrutor de Front-end e Programação",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/arthur-parahyba.webp",
+            "nome": "Arthur Parahyba",
+            "descricao": "Desenvolvedor Java há mais de 15 anos e entusiasta de boas práticas",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/beatriz-moura.webp",
+            "nome": "Beatriz Moura",
+            "descricao": "Estudante de Analise e Desenvolvimento de Sistemas",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/bruno-cruz.webp",
+            "nome": "Bruno Cruz",
+            "descricao": "Graduado e Pós Graduando em Design de Animação e Direção de Arte Audiovisual",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/bruno-divino.webp",
+            "nome": "Bruno Divino",
+            "descricao": "Cursa Tecnologia em Análise e Desenvolvimento de Sistemas na PUC-PR",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/camila-fernanda-alves.webp",
+            "nome": "Camila Fernanda Alves",
+            "descricao": "Quase engenheira pela Universidade Federal de Uberlândia e instrutora na Alura",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/camila-laranjeira.webp",
+            "nome": "Camila Laranjeira",
+            "descricao": "Mestre em Ciência da Computação pela UFMG, segue rumo ao Doutorado",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/carolina-feliciano-azevedo.webp",
+            "nome": "Carolina Feliciano Azevedo",
+            "descricao": "Gerente de projetos e Agile Coach",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/cássia-sampaio.webp",
+            "nome": "Cássia Sampaio",
+            "descricao": "Cientista de dados, instrutora e expert em Inteligência Artificial",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/cintia-amianti.webp",
+            "nome": "Cintia Amianti",
+            "descricao": "Educadora em educação corporativa e desenvolvimento de carreira",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/daniel-artine.webp",
+            "nome": "Daniel Artine",
+            "descricao": "Instrutor na Alura e Tech Lead na Stone Age",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/daniel-da-costa.webp",
+            "nome": "Daniel da Costa",
+            "descricao": "Artista 3D, especializado em anatomia humana",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/daniel-portugal.webp",
+            "nome": "Daniel Portugal",
+            "descricao": "Desenvolvedor Back-End, instrutor e mentor de carreiras .NET",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/daniel-siqueira.webp",
+            "nome": "Daniel Siqueira",
+            "descricao": "Instrutor na escola de Dados e professor de Matemática, Física, Química e Inglês",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/daniela-pedroso.webp",
+            "nome": "Daniela Pedroso",
+            "descricao": "Gestora de marcas e estrategista de comunicação integrada com foco em rebranding",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/danilo-máximo.webp",
+            "nome": "Danilo Máximo",
+            "descricao": "Editor de imagens com mais de 13 anos de experiência",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/david-neves.webp",
+            "nome": "David Neves",
+            "descricao": "Especialista em BI com foco no Power BI",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/dijanio-alves-da-silva.webp",
+            "nome": "Dijanio Alves da Silva",
+            "descricao": "Graduado em matemática e especializado no mercado financeiro",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/douglas-quintanilha-barbosa-ferreira.webp",
+            "nome": "Douglas Quintanilha Barbosa Ferreira",
+            "descricao": "Desenvolvedor e instrutor na Caelum, além de instrutor na Alura",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/edson-cruz.webp",
+            "nome": "Edson Cruz",
+            "descricao": "Profissional de e-commerce desde 1999",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/enio-moraes.webp",
+            "nome": "Enio Moraes",
+            "descricao": "Profissional com 12 anos de experiência em empresas multinacionais",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/fábio-josé-pereira-lima.webp",
+            "nome": "Fábio José Pereira Lima",
+            "descricao": "MBA em Gestão de Negócios, Eng. Mecânico e Membro da Axelos",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/felipe-de-castro-barbosa.webp",
+            "nome": "Felipe de Castro Barbosa",
+            "descricao": "Especialista em marketing digital, com foco em tráfego pago e Google Ads",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/felipe-labouriau.webp",
+            "nome": "Felipe Labouriau",
+            "descricao": "Designer gráfico de formação, com experiência em mídias impressas e virtuais",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/felipe-mansano.webp",
+            "nome": "Felipe Mansano",
+            "descricao": "Managing partner do fundo de venture capital EquitasVC",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/felipe-moreno-borges.webp",
+            "nome": "Felipe Moreno Borges",
+            "descricao": "Engenheiro de software na Thoughtworks",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/felipe-nascimento.webp",
+            "nome": "Felipe Nascimento",
+            "descricao": "Desenvolvedor e instrutor na Alura com foco em JavaScript",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/fernando-corrêa.webp",
+            "nome": "Fernando Corrêa",
+            "descricao": "Formado e pós-graduado em TI com MBA em Petróleo & Energias",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/flavia-palazzo.webp",
+            "nome": "Flavia Palazzo",
+            "descricao": "Graduou-se em Ciências Biológicas, com mestrado em Botânica",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/flavio-henrique-de-souza-almeida.webp",
+            "nome": "Flavio Henrique de Souza Almeida",
+            "descricao": "Dev e instrutor com foco em Angular, procura conciliar Front-End e Back-End",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/frederico-aranha.webp",
+            "nome": "Frederico Aranha",
+            "descricao": "Ajuda as pessoas a alcançarem seus objetivos por meio da capacitação profissional",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/gabriel-leite.webp",
+            "nome": "Gabriel Leite",
+            "descricao": "Desenvolvedor e instrutor com foco em Java, Ionic e Node.js",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/gabriel-lima-gomes.webp",
+            "nome": "Gabriel Lima Gomes",
+            "descricao": "Analista de dados, instrutor e palestrante na área de ciência de dados",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/gabriela-de-lima-silva.webp",
+            "nome": "Gabriela de Lima Silva",
+            "descricao": "Designer gráfica, trabalha com UX Design, Research e UI Design",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/giovanni-tempobono.webp",
+            "nome": "Giovanni Tempobono",
+            "descricao": "Bacharel em Ciência da Computação pelo Mackenzie",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/guilherme-lima.webp",
+            "nome": "Guilherme Lima",
+            "descricao": "Instrutor formado em Sistemas de Informação",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/guilherme-matheus-costa.webp",
+            "nome": "Guilherme Matheus Costa",
+            "descricao": "Engenheiro de software com foco na stack Microsoft",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/guilherme-silveira.webp",
+            "nome": "Guilherme Silveira",
+            "descricao": "Co-fundador da Alura, da Caelum e do GUJ",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/gustavo-diuana.webp",
+            "nome": "Gustavo Diuana",
+            "descricao": "Designer de interfaces com anos de experiência em design gráfico",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/henrique-morato.webp",
+            "nome": "Henrique Morato",
+            "descricao": "Programador com foco em Ruby on Rails e desenvolvimento web",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/igor-nascimento-alves.webp",
+            "nome": "Igor Nascimento Alves",
+            "descricao": "Graduado em Ciência da Computação, instrutor de Data Science",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/jacqueline-oliveira.webp",
+            "nome": "Jacqueline Oliveira",
+            "descricao": "Formada em Ciência da Computação e pós-graduada em Engenharia de Software",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/janaina-oliveira.webp",
+            "nome": "Janaina Oliveira",
+            "descricao": "Estrategista de marketing digital e especialista em tráfego pago",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/joão-manoel-lima.webp",
+            "nome": "João Manoel Lima",
+            "descricao": "Focado nas áreas de ensino, programação e eletrônica",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/joão-victor.webp",
+            "nome": "João Victor",
+            "descricao": "Formado em ciências da computação, utilizando Java e Kotlin",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/joão-vitor-de-miranda.webp",
+            "nome": "João Vitor de Miranda",
+            "descricao": "Bacharel em Matemática e pós graduado em Data Science e Analytics",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/júlia-cortazio-viana.webp",
+            "nome": "Júlia Cortazio Viana",
+            "descricao": "Instrutora de Inovação & Gestão e bacharel em Sistema de Informação",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/juliana-amoasei.webp",
+            "nome": "Juliana Amoasei",
+            "descricao": "Desenvolvedora JavaScript com background multidisciplinar",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/júlio-oliveira.webp",
+            "nome": "Júlio Oliveira",
+            "descricao": "Engenheiro especializado em Big Data Analytics",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/caio-couto-moreira.webp",
+            "nome": "Caio Couto Moreira",
+            "descricao": "Desenvolvedor Mobile apaixonado por criatividade e ensino",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/kleber-de-paiva-siqueira-costa.webp",
+            "nome": "Kleber de Paiva Siqueira Costa",
+            "descricao": "SRE no Itaú Unibanco, trabalhando em ambientes de missão crítica desde 2004",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/larissa-gabriela.webp",
+            "nome": "Larissa Gabriela",
+            "descricao": "Instrutora da escola de programação na Alura, com foco em C# e .NET",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/leonardo-marinho.webp",
+            "nome": "Leonardo Marinho",
+            "descricao": "Graduado em Análise e Desenvolvimento de Sistemas",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/leonardo-sartorello.webp",
+            "nome": "Leonardo Sartorello",
+            "descricao": "Desenvolvedor e instrutor na Alura com foco principal em DevOps e Cloud",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/letícia-watanabe.webp",
+            "nome": "Letícia Watanabe",
+            "descricao": "Publicitária especialista em gestão de marketing e comunicação",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/livia-cristina-gabos-martins.webp",
+            "nome": "Livia Cristina Gabos Martins",
+            "descricao": "Trabalha há mais de 10 anos na área de UX, focando em pesquisa e acessibilidade",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/luiz-carlos-alves-de-lima.webp",
+            "nome": "Luiz Carlos Alves de Lima",
+            "descricao": "Designer e developer Front-End",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/marcelo-oliveira.webp",
+            "nome": "Marcelo Oliveira",
+            "descricao": "Desenvolvedor e instrutor, busca melhorar o processo de desenvolvimento",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/marcelo-paludetto-rodrigues.webp",
+            "nome": "Marcelo Paludetto Rodrigues",
+            "descricao": "Engenheiro mestre, facilitando a implantação em projetos para a educação básica.",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/marcos-cropalato.webp",
+            "nome": "Marcos Cropalato",
+            "descricao": "Motion designer e instrutor certificado pela Adobe",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/maria-gabriela-oliva.webp",
+            "nome": "Maria Gabriela Oliva",
+            "descricao": "Graduada em Sistemas para Internet",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/marianne-henriques.webp",
+            "nome": "Marianne Henriques",
+            "descricao": "Especializada em Gestão de Projetos em Tecnologia da Informação e Pessoas",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/mario-amaral.webp",
+            "nome": "Mario Amaral",
+            "descricao": "Programador com mais de 10 anos de experiência em grande variedade de linguagens",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/mario-de-melo.webp",
+            "nome": "Mario de Melo",
+            "descricao": "Fundadores da Facta e atua como facilitador da Emergee no Brasil",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/mario-souto.webp",
+            "nome": "Mario Souto",
+            "descricao": "Vivo no 220v, sempre atrás de um filme/rolê novo e codando desafios em JavaScript",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/mateus-villain.webp",
+            "nome": "Mateus Villain",
+            "descricao": "Product designer, instrutor de UX e pro player de Figma",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/matheus-hernandes.webp",
+            "nome": "Matheus Hernandes",
+            "descricao": "Desenvolvedor de software, instrutor, palestrante e entusiasta por tecnologia",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/maurício-aniche.webp",
+            "nome": "Maurício Aniche",
+            "descricao": "Ajuda as empresas de tecnologia a testar e evoluir produtos",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/millena-gená-pereira.webp",
+            "nome": "Millena Gená Pereira",
+            "descricao": "Estudante de Ciência da Computação na UFU",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/mônica-mazzochi-hillman.webp",
+            "nome": "Mônica Mazzochi Hillman",
+            "descricao": "Bacharela em Tecnologias Digitais, especialista em UX",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/natalia-kelim-thiel.webp",
+            "nome": "Natalia Kelim Thiel",
+            "descricao": "Programadora e instrutora",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/natan-souza.webp",
+            "nome": "Natan Souza",
+            "descricao": "Atualmente projeto, ensino e lidero UX Design na Alura",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/nayanne-batista.webp",
+            "nome": "Nayanne Batista",
+            "descricao": "Doutorada em saúde e graduada em Análise e Desenvolvimento de Sistemas",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/nico-steppat.webp",
+            "nome": "Nico Steppat",
+            "descricao": "Trabalha na área de tecnologia há mais de 20 anos",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/paula-faria.webp",
+            "nome": "Paula Faria",
+            "descricao": "Designer gráfica para produtos digitais desde 2001",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/paulo-silveira.webp",
+            "nome": "Paulo Silveira",
+            "descricao": "CEO e cofundador da Alura, Bacharel e mestre em Ciência da Computação pela USP",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/pedro-marins.webp",
+            "nome": "Pedro Marins",
+            "descricao": "Ajuda devs a conquistarem a primeira vaga e obter carreiras de sucesso",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/priscila-stuani.webp",
+            "nome": "Priscila Stuani",
+            "descricao": "Product Owner da Alura Latam",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/rafael-balbi.webp",
+            "nome": "Rafael Balbi",
+            "descricao": "(Ele/Dele) Designer e Ilustrador",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/rafael-bomfim.webp",
+            "nome": "Rafael Bomfim",
+            "descricao": "Sou do time de publicação da Alura",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/rafael-nunes-cerveglieri.webp",
+            "nome": "Rafael Nunes Cerveglieri",
+            "descricao": "Artista formado pela faculdade Belas Artes de SP",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/rafael-silva-nercessian.webp",
+            "nome": "Rafael Silva Nercessian",
+            "descricao": "Formado em engenharia elétrica com ênfase em telecomunicações",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/rafaella-ballerini.webp",
+            "nome": "Rafaella Ballerini",
+            "descricao": "Desenvolvedora de software, instrutora e criadora de conteúdo",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/rainer-petter.webp",
+            "nome": "Rainer Petter",
+            "descricao": "Ilustrador e artista conceitual, formado em Artes Visuais",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/ricardo-bugan-debs.webp",
+            "nome": "Ricardo Bugan Debs",
+            "descricao": "Designer de jogos, programador e instrutor",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/ricardo-merces.webp",
+            "nome": "Ricardo Merces",
+            "descricao": "Atua há 30 anos na áreas da Tecnologia da Informação",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/ricardo-nakano.webp",
+            "nome": "Ricardo Nakano",
+            "descricao": "Grande experiência na área de tecnologia e sistemas de informação",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/ricarth-lima.webp",
+            "nome": "Ricarth Lima",
+            "descricao": "Professor, desenvolvedor de jogos educativos e criador de conteúdo",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/roberto-pina-rizzo.webp",
+            "nome": "Roberto Pina Rizzo",
+            "descricao": "Consultor em transformação lean-ágil, gestão estratégica de TI e inovação",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/roberto-sabino.webp",
+            "nome": "Roberto Sabino",
+            "descricao": "Autor de livros como \"Excel Básico para o Mundo do Trabalho\"",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/rodrigo-fernando-dias.webp",
+            "nome": "Rodrigo Fernando Dias",
+            "descricao": "Estatístico e especialista em Big Data com forte interesse em geoprocessamento",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/rodrigo-ferreira.webp",
+            "nome": "Rodrigo Ferreira",
+            "descricao": "Programador e professor desde 2008",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/sérgio-lopes.webp",
+            "nome": "Sérgio Lopes",
+            "descricao": "Diretor e líder do time de diversos times no Grupo Caelum",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/sergio-lopes-de-carvalho.webp",
+            "nome": "Sergio Lopes de Carvalho",
+            "descricao": "Life coach, trainer de oratória",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/sthefanie-monica-premebida.webp",
+            "nome": "Sthefanie Monica Premebida",
+            "descricao": "Engenheira Eletricista, atua na área de Redes Neurais e Machine Learning",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/suzana-braga-lisboa.webp",
+            "nome": "Suzana Braga Lisboa",
+            "descricao": "Especialista em aprendizagem e entusiasta em futurismo e métodos ágeis",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/tais-hasobe.webp",
+            "nome": "Tais Hasobe",
+            "descricao": "Especialista em Recursos Humanos há mais de 20 anos",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/tayná-carvalho.webp",
+            "nome": "Tayná Carvalho",
+            "descricao": "Atuação em Social Media, Design, Customer Experience e Copywriting",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/thiago-ferraz.webp",
+            "nome": "Thiago Ferraz",
+            "descricao": "Apaixonado por Empreendedorismo, Desenvolvimento de Pessoas e marketing",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/thiago-g-santos.webp",
+            "nome": "Thiago G Santos",
+            "descricao": "Um quase físico, apaixonado por dados e educação",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/thiago-grusmão.webp",
+            "nome": "Thiago Grusmão",
+            "descricao": "Ilustrador, pintor e designer",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/tuanny-dias.webp",
+            "nome": "Tuanny Dias",
+            "descricao": "Product Designer Lead, Professora e Palestrante",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/victorino-vila.webp",
+            "nome": "Victorino Vila",
+            "descricao": "Desenvolvedor com foco em .NET e Web Services",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/vinicios-neves.webp",
+            "nome": "Vinicios Neves",
+            "descricao": "Engenheiro de software pela UNESA e Arquiteto de Software pela PUC Minas",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/vinicius-dias.webp",
+            "nome": "Vinicius Dias",
+            "descricao": "Zend Certified Engineer e iMasters Certified Professional, Full Stack",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/wagner-giovanini.webp",
+            "nome": "Wagner Giovanini",
+            "descricao": "Engenheiro eletricista formado pela Escola Politécnica da USP",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/yuri-matheus.webp",
+            "nome": "Yuri Matheus",
+            "descricao": "Desenvolvedor e instrutor",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/alexander-ramos-jardim.webp",
+            "nome": "Alexander Ramos Jardim",
+            "descricao": "Instrutor na área de DevOps, criou um curso de Ansible",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/alexandre-magno.webp",
+            "nome": "Alexandre Magno",
+            "descricao": "Fundador da Emergee e autor do livro Learning 3.0",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/allan-segovia-spadini.webp",
+            "nome": "Allan Segovia Spadini",
+            "descricao": "Possui doutorado em Geofísica pela USP",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/alvaro-camillo.webp",
+            "nome": "Alvaro Camillo",
+            "descricao": "Dev há 15 anos, atualmente trabalhando com tecnologias web e open source",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/amandha-moreira.webp",
+            "nome": "Amandha Moreira",
+            "descricao": "Instrutora na área de Inovação e Gestão, focada no marketing em mídias sociais",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/andré-faria.webp",
+            "nome": "André Faria",
+            "descricao": "CEO na Bluesoft SP, Mentor da Liga Ventures e Advisor e Investidor na Wow Aceleradora",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/andre-machado.webp",
+            "nome": "Andre Machado",
+            "descricao": "Instrutor na área de Inovação e Gestão",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/andre-pilli.webp",
+            "nome": "Andre Pilli",
+            "descricao": "Instrutor na area de UX & Design, criou um curso sobre produção de vídeo",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/andrew-ijano-lopes.webp",
+            "nome": "Andrew Ijano Lopes",
+            "descricao": "Instrutor, desenvolvedor e graduando no curso de ciência da computação na USP",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/antonio-carvalho.webp",
+            "nome": "Antonio Carvalho",
+            "descricao": "É Consultor em IBM BPM, IBM Integration BUS, full stack",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/atila-iamarino.webp",
+            "nome": "Atila Iamarino",
+            "descricao": "Dr. em microbiologia pela USP e pós-doutorado na instituição paulista e Yale",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/ben-hur-santos-ott.webp",
+            "nome": "Ben-Hur Santos Ott",
+            "descricao": "Atua há 10 anos na area de desenvolvimento de software",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/bernardo-severo-da-silveira.webp",
+            "nome": "Bernardo Severo da Silveira",
+            "descricao": "Instrutor Front-End na Alura",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/bianca-fróes.webp",
+            "nome": "Bianca Fróes",
+            "descricao": "Instrutora da escola de Gestão e Inovação",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/bianca-nascimento.webp",
+            "nome": "Bianca Nascimento",
+            "descricao": "Formada em Jogos Digitais e atua como game designer e QA Tester",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/bruno-cruz.webp",
+            "nome": "Bruno Cruz",
+            "descricao": "Instrutor na área de UX & Design, criou um curso sobre produção de vídeo",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/caio-cesar-souza.webp",
+            "nome": "Caio Cesar Souza",
+            "descricao": "Criador de vários cursos para a IDWall",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/caio-simon.webp",
+            "nome": "Caio Simon",
+            "descricao": "Formado em engenharia elétrica com ênfase em eletrônica",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/cecilia-fernandes.webp",
+            "nome": "Cecilia Fernandes",
+            "descricao": "Agile Coach, desenvolvedora de software e instrutora",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/celso-barreira.webp",
+            "nome": "Celso Barreira",
+            "descricao": "Gerente de Projetos, PMP, atuando há 15 anos em projetos em Sistema SAP",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/cleber-tardier-viana-da-silva.webp",
+            "nome": "Cleber Tardier Viana da Silva",
+            "descricao": "Instrutor na área de Inovação e Gestão, com cursos para a Orizon",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/damarys-rodriguez-viganó-montes.webp",
+            "nome": "Damarys Rodriguez Viganó Montes",
+            "descricao": "Instrutora na área de DevOps, com cursos sobre segurança de dados",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/daniel-giraldi.webp",
+            "nome": "Daniel Giraldi",
+            "descricao": "Criou um curso sobre integridade corporativa",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/daniel-leonardo-ferreira.webp",
+            "nome": "Daniel Leonardo Ferreira",
+            "descricao": "Criou um curso sobre UX Design",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/daniel-meireles-meira.webp",
+            "nome": "Daniel Meireles Meira",
+            "descricao": "Gerente de Produção e Mestrado em Eng. de Produção",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/daniele-alves-pires-berce.webp",
+            "nome": "Daniele Alves Pires Berce",
+            "descricao": "Instrutora na área de Inovação e Gestão",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/danielle-oliveira.webp",
+            "nome": "Danielle Oliveira",
+            "descricao": "Formada em Sistemas de Informação",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/dayane-castro.webp",
+            "nome": "Dayane Castro",
+            "descricao": "Consultora Jurídica em TI",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/débora-coelho.webp",
+            "nome": "Débora Coelho",
+            "descricao": "Publicitária, mestre e bacharel em Comunicação Social",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/diego-carlos-martins-gayoso.webp",
+            "nome": "Diego Carlos Martins Gayoso",
+            "descricao": "Brasiliense, apaixonado por games e programação.",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/diego-marçal-magdaleno.webp",
+            "nome": "Diego Marçal Magdaleno",
+            "descricao": "Criador de um curso sobre Kotlin",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/diogo-mascarenhas.webp",
+            "nome": "Diogo Mascarenhas",
+            "descricao": "Desenvolvedor PHP experiente com foco no Laravel",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/douglas-vidal.webp",
+            "nome": "Douglas Vidal",
+            "descricao": "Doutor e mestre em Administração, especialista em Ciências do Consumo",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/elaine-mattos.webp",
+            "nome": "Elaine Mattos",
+            "descricao": "Instrutora Front-End, criou um curso sobre CSS no ReactJS",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/eleandro-lopes-da-rocha.webp",
+            "nome": "Eleandro Lopes Da Rocha",
+            "descricao": "Experiência de mais de dez anos em gestão de projetos",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/eliana-santos-de-oliveira.webp",
+            "nome": "Eliana Santos de Oliveira",
+            "descricao": "Mais de 15 anos de experiência na área de Tecnologia da Informação",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/fábio-lage.webp",
+            "nome": "Fábio Lage",
+            "descricao": "Instrutor na área de UX Design, criou um curso sobre filmografia",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/felipe-cristiano-cappelli-silva.webp",
+            "nome": "Felipe Cristiano Cappelli Silva",
+            "descricao": "Instrutor na área de Inovação e Gestão",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/fernanda-sindeaux.webp",
+            "nome": "Fernanda Sindeaux",
+            "descricao": "Criadora do curso interno sobre ética da Alura",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/flávio-costa.webp",
+            "nome": "Flávio Costa",
+            "descricao": "Especialista em projetos de tecnologias com mais de 20 anos de experiência",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/fransuel-nascimento.webp",
+            "nome": "Fransuel Nascimento",
+            "descricao": "Designer com passagem por startups e consultorias",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/fred-pompeu.webp",
+            "nome": "Fred Pompeu",
+            "descricao": "Designer gráfico e artista conceitual",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/gabriel-corte-real-saldanha.webp",
+            "nome": "Gabriel Corte Real Saldanha",
+            "descricao": "Instrutor na área de programação, criou um curso de Python",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/gabriel-fernandes-de-oliveira.webp",
+            "nome": "Gabriel Fernandes de Oliveira",
+            "descricao": "Estudante de Ciências da Computação na USP",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/gabriela-vaz.webp",
+            "nome": "Gabriela Vaz",
+            "descricao": "Programadora Front-end com experiência no desenvolvimento de sites",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/giselle-alessandra-guimarães.webp",
+            "nome": "Giselle Alessandra Guimarães",
+            "descricao": "Instrutora na área de Inovação e Gestão",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/guilherme-ogg.webp",
+            "nome": "Guilherme Ogg",
+            "descricao": "Formado em Rádio e Tv pela Universidade Tuiuti do Paraná",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/gustavo-horn.webp",
+            "nome": "Gustavo Horn",
+            "descricao": "Artista de ambiente 3D entusiasta",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/gustavo-loureiro.webp",
+            "nome": "Gustavo Loureiro",
+            "descricao": "Mestre em Adm. Desenvolvimento de Negócios pelo Mackenzie",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/gustavo-ramos.webp",
+            "nome": "Gustavo Ramos",
+            "descricao": "Sócio e Head de Produto na CoBlue, especialista em OKR.",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/helder-assis-da-silva.webp",
+            "nome": "Helder Assis da Silva",
+            "descricao": "Especialista em Project e Portfolio Management",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/helios-lourenço.webp",
+            "nome": "Helios Lourenço",
+            "descricao": "Experiência de mais de 18 anos atuando em todo ciclo de vida de software",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/hugo.webp",
+            "nome": "Hugo",
+            "descricao": "Instrutor na área de Data Science, criou um curso sobre organização de dados na AWS",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/humberto-dos-reis-rodrigues.webp",
+            "nome": "Humberto dos Reis Rodrigues",
+            "descricao": "Desenvolvedor Full Stack formado em Ciência da Computação",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/jacqueline-lafloufa.webp",
+            "nome": "Jacqueline Lafloufa",
+            "descricao": "Jornalista freelancer, especializada em ciência e comunicação digital",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/joice-barbaresco.webp",
+            "nome": "Joice Barbaresco",
+            "descricao": "Parte da equipe que atua com projetos para Educação Básica dentro da Alura",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/josé-augusto-de-almeida-junior.webp",
+            "nome": "José Augusto De Almeida Junior",
+            "descricao": "Autor do livro Pentest em Aplicações web pela casa do código",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/joviane-fernandes-jardim.webp",
+            "nome": "Joviane Fernandes Jardim",
+            "descricao": "Instrutora e desenvolvedora experiente nas áreas de tecnologia e serviços",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/jp-engelbrecht.webp",
+            "nome": "JP Engelbrecht",
+            "descricao": "Instrutor na área de UX Design, criou um curso de fotografia",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/junior-martins.webp",
+            "nome": "Junior Martins",
+            "descricao": "Desenvolvedor Android e produtor de conteúdo Tech",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/karoline-penteado.webp",
+            "nome": "Karoline Penteado",
+            "descricao": "Instrutora na área de Data Science, criou um curso de machine learning",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/kleber-nunes.webp",
+            "nome": "Kleber Nunes",
+            "descricao": "Instrutor na área de programação, criou um curso sobre Spring Data JPA",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/lazaro-prates-junior.webp",
+            "nome": "Lazaro Prates Junior",
+            "descricao": "Desenvolvedor de software e instrutor com mais de 8 anos de experiência na área",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/leo-lopes.webp",
+            "nome": "Leo Lopes",
+            "descricao": "Radialista, locutor, sonhador e empreendedor",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/lilian-frossard.webp",
+            "nome": "Lilian Frossard",
+            "descricao": "Psicóloga, Especialista em Psicopedagogia e Neuropsicologia e Mestre em Psicologia",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/luan-alves.webp",
+            "nome": "Luan Alves",
+            "descricao": "Estudante de Análise e Desenvolvimento de Sistemas, instrutor Front-End na Alura",
+            "area": 5
+        },
+        {
+            "img": "./img/profile/luan-marques.webp",
+            "nome": "Luan Marques",
+            "descricao": "Desenvolvedor de sistemas e instrutor na Caelum",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/luis-meazzini.webp",
+            "nome": "Luis Meazzini",
+            "descricao": "Mestre em Ciência e Tecnologias da Computação",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/luiz-fernando-ribeiro.webp",
+            "nome": "Luiz Fernando Ribeiro",
+            "descricao": "Instrutor Front-End na Alura",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/luiz-gustavo-doles-silva.webp",
+            "nome": "Luiz Gustavo Doles Silva",
+            "descricao": "Advogado, Especialista em Direito Empresarial e Mestre em Direito Político e Econômico",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/lunna-dias.webp",
+            "nome": "Lunna Dias",
+            "descricao": "Psicóloga, Especialista em Liderança, Fundou a Smart Group Brasil",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/marcelo-bertho.webp",
+            "nome": "Marcelo Bertho",
+            "descricao": "Profissional de TI Generalista com mais de 24 anos de experiência",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/marcos-lourinho.webp",
+            "nome": "Marcos Lourinho",
+            "descricao": "Desenvolvedor e instrutor, graduado em ciências da computação",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/marina-manso.webp",
+            "nome": "Marina Manso",
+            "descricao": "Engenheira de qualidade, formada pela Universidade Estadual de Campinas (UNICAMP)",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/matheus-alberto.webp",
+            "nome": "Matheus Alberto",
+            "descricao": "Formado em Sistemas de Informação e Design Gráfico",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/matheus-castiglioni.webp",
+            "nome": "Matheus Castiglioni",
+            "descricao": "Apaixonado pelo mundo dos códigos e um eterno estudante",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/michel-fernandes.webp",
+            "nome": "Michel Fernandes",
+            "descricao": "Mestre em inteligência artificial com grande interesse na área médica",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/michelle-siquet.webp",
+            "nome": "Michelle Siquet",
+            "descricao": "Atua há mais de 20 anos no mercado",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/millor-machado.webp",
+            "nome": "Millor Machado",
+            "descricao": "Instrutor na área de Inovação e Gestão",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/mirla-costa.webp",
+            "nome": "Mirla Costa",
+            "descricao": "Instrutora em Data Science, graduanda em Engenharia Elétrica",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/mônica-matos-bock.webp",
+            "nome": "Mônica Matos Bock",
+            "descricao": "Product Owner nas Escolas de Programação e DevOps",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/neilton-seguins.webp",
+            "nome": "Neilton Seguins",
+            "descricao": "Desenvolvedor Front-end e Instrutor React",
+            "area": 1
+        },
+        {
+            "img": "./img/profile/nereida-vianna.webp",
+            "nome": "Nereida Vianna",
+            "descricao": "Instrutora na área de Inovação e Gestão",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/pedro-felipe-teixeira.webp",
+            "nome": "Pedro Felipe Teixeira",
+            "descricao": "Formado em Mecatrônica Industrial, com mestrado em Energias Renováveis",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/pedro-henrique-c.-moura-da-silva.webp",
+            "nome": "Pedro Henrique C. Moura da Silva",
+            "descricao": "Técnico em Informática e Analista de Relações Internacionais",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/pedro-piovan.webp",
+            "nome": "Pedro Piovan",
+            "descricao": "Fundador na Ensaio, um laboratório que ajuda empresas a inovarem por meio do design",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/priscila-sonnesso.webp",
+            "nome": "Priscila Sonnesso",
+            "descricao": "UX designer, instrutora e consultora",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/rachel-malva.webp",
+            "nome": "Rachel Malva",
+            "descricao": "É consultora, palestrante e instrutora de treinamentos",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/rafael-zago.webp",
+            "nome": "Rafael Zago",
+            "descricao": "Analista de infraestrutura e sysadmin",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/rafaela-alves-de-sousa.webp",
+            "nome": "Rafaela Alves de Sousa",
+            "descricao": "Instrutora na área de Inovação e Gestão",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/raquel-antoniette.webp",
+            "nome": "Raquel Antoniette",
+            "descricao": "Publicitária formada em Propaganda e Marketing com MBA de Gestão de Projetos",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/renata-tedesco.webp",
+            "nome": "Renata Tedesco",
+            "descricao": "Founder da Huntz e da Huntz Academy",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/rodolpho-bernabel.webp",
+            "nome": "Rodolpho Bernabel",
+            "descricao": "Professor de Relações Internacionais na ESPM e Analista de Risco Político",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/rodrigo-arruda.webp",
+            "nome": "Rodrigo Arruda",
+            "descricao": "22 anos de experiência de TI e desenvolvimento de sistemas para área financeira",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/rodrigo-gunisalvo.webp",
+            "nome": "Rodrigo Gunisalvo",
+            "descricao": "Experiente em programação e entusiasta de Internet das Coisas",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/rodrigo-siqueira.webp",
+            "nome": "Rodrigo Siqueira",
+            "descricao": "Desenvolvedor Python Django",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/rodrigo-turini.webp",
+            "nome": "Rodrigo Turini",
+            "descricao": "Desenvolvedor com foco em Java, JavaEE, POO, SOLID e Design Patterns",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/ronald-rodrigues-farias.webp",
+            "nome": "Ronald Rodrigues Farias",
+            "descricao": "Trabalha com computação visual, APIs e RPAs usando Python e Golang",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/sara-malvar.webp",
+            "nome": "Sara Malvar",
+            "descricao": "Engenheira com PhD nas Universidade de Tóquio e na Universidade da Pensilvânia",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/simone-schaan.webp",
+            "nome": "Simone Schaan",
+            "descricao": "Psicóloga especializada em Administração e Recursos Humanos pela Universidade Mackenzie",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/simony-dantas-da-silva.webp",
+            "nome": "Simony Dantas da Silva",
+            "descricao": "Instrutora de Inovação e Gestão",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/talita-pagani.webp",
+            "nome": "Talita Pagani",
+            "descricao": "Especialista em UX e Acessibilidade Web, atuando na área de tecnologia desde 2005",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/tatiane-froelich.webp",
+            "nome": "Tatiane Froelich",
+            "descricao": "Mestre em Psicologia, com foco em carreira, pela PUC-RS",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/thainá-mariani.webp",
+            "nome": "Thainá Mariani",
+            "descricao": "Engenheira de software, instrutora e doutora em ciência da computação",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/thais-benatti.webp",
+            "nome": "Thais Benatti",
+            "descricao": "Instrutora na área de Inovação e Gestão",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/thales-minussi-de-sousa.webp",
+            "nome": "Thales Minussi de Sousa",
+            "descricao": "Instrutor na área de DevOps, criou um curso sobre AWS SQS",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/thiago-dana.webp",
+            "nome": "Thiago Dana",
+            "descricao": "Instrutor na área de UX Design, criou um curso sobre filmografia",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/thiago-lacerda.webp",
+            "nome": "Thiago Lacerda",
+            "descricao": "Designer de serviços e faciltador de workshops",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/thiago-sarraf.webp",
+            "nome": "Thiago Sarraf",
+            "descricao": "Consultor Dr. e-commerce, professor e palestrante",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/tiago-lage-payne-de-pádua.webp",
+            "nome": "Tiago Lage Payne de Pádua",
+            "descricao": "Formação em Computação Licenciatura pela UnB",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/tuany.webp",
+            "nome": "Tuany",
+            "descricao": "Especialista em marketing, graduada pela ESPM e pós-graduada pela FAAP",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/vanessa-alkmim.webp",
+            "nome": "Vanessa Alkmim",
+            "descricao": "Estrategista de redes sociais",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/victor-andreas-sprengel.webp",
+            "nome": "Victor Andreas Sprengel",
+            "descricao": "Engenheiro de dados, formado em Ciência da Computação pela USP",
+            "area": 3
+        },
+        {
+            "img": "./img/profile/victor-coelho-geraldo.webp",
+            "nome": "Victor Coelho Geraldo",
+            "descricao": "Doutor em ciências e graduado em Eng. Química, ambos pela a UNICAMP",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/victor-kendy-harada.webp",
+            "nome": "Victor Kendy Harada",
+            "descricao": "Engenheiro de software, formado em Ciência da Computação pela USP",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/vinícius-barros-rodrigues.webp",
+            "nome": "Vinícius Barros Rodrigues",
+            "descricao": "Biólogo, Doutor em Entomologia pela Universidade Federal de Viçosa",
+            "area": 2
+        },
+        {
+            "img": "./img/profile/vinicius-cardozo.webp",
+            "nome": "Vinicius Cardozo",
+            "descricao": "Instrutor na área de Front-End, criou um curso sobre TailwindCSS no ReactJS",
+            "area": 6
+        },
+        {
+            "img": "./img/profile/vinícius-portugal-frotté.webp",
+            "nome": "Vinícius Portugal Frotté",
+            "descricao": "Produtor Audiovisual, gravando e editando áudio e vídeo há mais de 7 anos",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/vitória-de-frança-comarin.webp",
+            "nome": "Vitória de França Comarin",
+            "descricao": "Graduada em Relações Públicas pela UFRGS e MBA em Big Data pela ESPM",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/wanderson-macêdo.webp",
+            "nome": "Wanderson Macêdo",
+            "descricao": "Bacharel em Sistemas de Informação e desenvolvedor Full Stack",
+            "area": 0
+        },
+        {
+            "img": "./img/profile/william-santos.webp",
+            "nome": "William Santos",
+            "descricao": "Especialista em Design de Produto no iFood e expert em pacote Adobe e Autodesk",
+            "area": 4
+        },
+        {
+            "img": "./img/profile/yuri-padilha.webp",
+            "nome": "Yuri Padilha",
+            "descricao": "Desenvolvedor full-stack, formado em Tecnologia de Informação pela USP",
+            "area": 1
+        }
+    ]
+}
