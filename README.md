@@ -1,4 +1,7 @@
-![Banner do Organo, um time com as mãos juntas.](./static/banner.png)
+<p align="center">
+  <img src="./docs/static/media/banner.png" alt="Banner do Organo, um time com as mãos juntas.">
+</p>
+
 # Projeto de curso ReactJS da Alura: Organo
 
 Olá! Este projeto foi desenvolvido durante o curso "React: desenvolvendo com JavaScript", da Alura, do Vinicius Neves e Paulo Silveira.
