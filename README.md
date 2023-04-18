@@ -32,7 +32,7 @@ Querendo fazer um projeto mais completo e utilizar os meus conhecimentos obtidos
 estudadas, no caso HTML, CSS, JavaScript nativo e ReactJS.
 - `ChatGPT`: Utilizado para fins de estudo, para conceitos específicos.
 
-## Licensa
+## Licença
 
 Não é permitido o uso de qualquer arquivo que possua origem na Alura, a menos que se obtenha permissão deles ou (acredito) que esses
 arquivos sejam usados para projetos de curso da mesma. Para utilizar arquivos criados por mim, por favor peça permissão primeiro.
